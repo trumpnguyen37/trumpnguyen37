@@ -2,7 +2,7 @@
 
 - 💼 I'm a senior student at the University of Technical Education, Da Nang :robot:. I :heart: FrontEnd and therefore enjoy working on interesting FrontEnd projects.
 
-- ❤️ I'm currently learning HTML,JAVA SCRIPT,REACT,REDUX,NODEJS
+- ❤️ I'm currently learning <b>HTML, JAVA SCRIPT, REACT, REDUX, NODEJS</b>
 
 - 📫 How to reach me vantrung03072002@gmail.com
 
